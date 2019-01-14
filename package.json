@@ -41,6 +41,7 @@
     "css-loader": "^0.28.7",
     "enhanced-resolve": "^3.4.1",
     "eslint": "^4.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
     "eslint-config-standard": "^10.2.1",
     "eslint-friendly-formatter": "^3.0.0",
     "eslint-loader": "^1.9.0",
@@ -50,7 +51,6 @@
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-standard": "^3.0.1",
     "eslint-plugin-vue-libs": "^1.2.1",
-    "eslint-config-airbnb-base": "^13.1.0",
     "extract-text-webpack-plugin": "^3.0.1",
     "file-loader": "^1.1.5",
     "friendly-errors-webpack-plugin": "^1.6.1",
@@ -61,16 +61,16 @@
     "pug": "^2.0.0-rc.4",
     "pug-loader": "^2.3.0",
     "sass-loader": "^6.0.6",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
     "url-loader": "^0.6.2",
     "vue-loader": "^13.3.0",
     "vue-style-loader": "^3.0.3",
     "vue-template-compiler": "^2.5.2",
     "wcer": "^1.0.2",
     "webpack": "^3.8.1",
-    "webpack-dev-server": "^2.9.3",
+    "webpack-dev-server": "^3.1.14",
     "webpack-merge": "^4.1.0",
-    "ws": "^3.2.0",
-    "stylus": "^0.54.5",
-    "stylus-loader": "^3.0.2"
+    "ws": "^3.2.0"
   }
 }
