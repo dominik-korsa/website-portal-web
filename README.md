@@ -3,6 +3,6 @@ Website Portal Web Extension
 
 ## Build
 ```shell
-npm i
+npm install
 npm run build
 ```
