@@ -52,6 +52,12 @@ export default {
   .v-text-field--outline {
     .v-input__slot {
       border-width: 1px !important;
+      padding: 1px 12px !important;
+    }
+
+    &.v-input--is-focused .v-input__slot {
+      border-width: 2px !important;
+      padding: 0px 11px !important;
     }
   }
 </style>
