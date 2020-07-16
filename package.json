@@ -9,7 +9,7 @@
     "@mdi/font": "^3.6.95",
     "axios": "^0.17.0",
     "element-ui": "^2.8.2",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "vue": "^2.6.10",
     "vue-async-computed": "^3.6.1",
     "vue-meta": "^1.6.0",
